@@ -1,1 +1,1 @@
-asdasdsad
+Resolução dos exercícios de Shell e C propostos durante a piscina da 42sp em junho de 2021.
