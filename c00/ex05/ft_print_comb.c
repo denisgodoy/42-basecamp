@@ -37,10 +37,3 @@ void	ft_putchar(char	a, char	b, char	c)
 	if (!(a == 55 && b == 56 && c == 57))
 		write(1, ", ", 2);
 }
-
-#teste
-int	main(void)
-{
-	ft_print_comb();
-	return (0);
-}
